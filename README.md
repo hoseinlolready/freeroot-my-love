@@ -17,7 +17,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
     ```sh
     git clone https://github.com/hoseinlolready/freeroot-my-love.git
-    cd freeroot
+    cd freeroot-my-love
     ```
 
 2. Run the installer script:
