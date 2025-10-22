@@ -28,7 +28,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
     or with curl version
    
     ```sh
-    bash root_curl.sh
+    bash root_curl
     ```
 
 ## Supported Architectures
